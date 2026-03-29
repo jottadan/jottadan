@@ -1,4 +1,4 @@
-# João | Estudante de Segurança
+# João | Web Security Student
 
 Estudante focado em Web Security e análise de ameaças.
 
