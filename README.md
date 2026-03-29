@@ -14,4 +14,5 @@ Estudante focado em Web Security e análise de ameaças.
 
 ## Atualmente Estudando
 - Fundamentos da segurança web
-- Análise de scams, phishing e stealer malware
+- Análise de scams e phishing
+- Introdução à análise de stealer malware
