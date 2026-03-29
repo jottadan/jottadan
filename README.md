@@ -10,7 +10,7 @@ Estudante focado em Web Security e análise de ameaças.
 - Engenharia Social
 
 ## Projetos
-- [Robux Scam Analysis](https://github.com/jottadan/relatorios-de-seguranca)
+- [Robux Scam Analysis](https://github.com/jottadan/relatorios-de-seguranca) (redirect + CPI)
 
 ## Atualmente Estudando
 - Fundamentos da segurança web
