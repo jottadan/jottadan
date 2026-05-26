@@ -1,18 +1,19 @@
-# João | Web Security Student
+# João | Blue Team Student
 
-Estudante focado em Web Security e análise de ameaças.
+Estudante atualmente focado em SOC e Blue Team.
 
 ## Áreas de Interesse
-- Security Engineering
+- SOC L1 & L2
+- Detection Engineering
 - Web Security
-- Malware Analysis (iniciante)
+- Malware Analysis
 - Threat Analysis
-- Engenharia Social
 
 ## Projetos
 - [Robux Scam Analysis](https://github.com/jottadan/relatorios-de-seguranca) (redirect + CPI)
 
 ## Atualmente Estudando
-- Fundamentos da segurança web
-- Análise de scams e phishing
-- Introdução à análise de stealer malware
+- SOC L1 (TryHackMe)
+- Cyber Defense Frameworks
+- Phishing Analysis
+- Network Traffic Analysis
