@@ -1,4 +1,4 @@
-# João | Blue Team Student
+# João Pedro | Blue Team Student
 
 Estudante atualmente focado em SOC e Blue Team.
 
