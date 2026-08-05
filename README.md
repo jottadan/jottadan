@@ -14,5 +14,5 @@ Estudante atualmente focado em SOC e Blue Team.
 
 ## Atualmente Estudando
 - SOC L1 (TryHackMe)
-- Network Traffic Analysis
-- Malware Analysis
+- Log Analysis
+- Network Security Analysis
