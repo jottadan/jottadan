@@ -16,3 +16,4 @@ Estudante atualmente focado em SOC e Blue Team.
 - SOC L1 (TryHackMe)
 - Log Analysis
 - Network Security Analysis
+- Linux CLI
