@@ -6,8 +6,6 @@ Estudante atualmente focado em SOC e Blue Team.
 - SOC L1 & L2
 - Detection Engineering
 - Web Security
-- Malware Analysis
-- Threat Analysis
 
 ## Projetos
 - [Robux Scam Analysis](https://github.com/jottadan/relatorios-de-seguranca) (redirect + CPI)
