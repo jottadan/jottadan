@@ -12,5 +12,4 @@ Estudante atualmente focado em SOC e Blue Team.
 
 ## Atualmente Estudando
 - SOC L1 (TryHackMe)
-- Web Security Monitoring
-- SQL Injection (Portswigger)
+- Log Analysis (Windows, Linux e Splunk)
