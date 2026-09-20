@@ -9,6 +9,7 @@ Estudante atualmente focado em SOC e Blue Team.
 
 ## Projetos
 - [Robux Scam Analysis](https://github.com/jottadan/relatorios-de-seguranca) (redirect + CPI)
+- [Roblox Phishing Login](https://github.com/jottadan/relatorios-de-seguranca) (phishing in-game)
 
 ## Atualmente Estudando
 - SOC L1 (TryHackMe)
