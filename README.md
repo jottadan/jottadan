@@ -3,9 +3,9 @@
 Estudante atualmente focado em SOC e Blue Team.
 
 ## Áreas de Interesse
-- SOC L1 & L2
+- SOC L1
 - Detection Engineering
-- Web Security
+- Help Desk/Suporte Técnico
 
 ## Projetos
 - [Robux Scam Analysis](https://github.com/jottadan/relatorios-de-seguranca) (redirect + CPI)
@@ -13,4 +13,4 @@ Estudante atualmente focado em SOC e Blue Team.
 
 ## Atualmente Estudando
 - SOC L1 (TryHackMe)
-- Log Analysis (Windows, Linux e Splunk)
+- Cisco Networking
