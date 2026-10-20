@@ -12,5 +12,4 @@ Estudante atualmente focado em SOC e Blue Team.
 - [Roblox Phishing Login](https://github.com/jottadan/relatorios-de-seguranca) (phishing in-game)
 
 ## Atualmente Estudando
-- SOC L1 (TryHackMe)
 - Cisco Networking
