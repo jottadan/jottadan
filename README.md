@@ -4,7 +4,7 @@ Estudante atualmente focado em SOC e Blue Team.
 
 ## Áreas de Interesse
 - SOC L1
-- Threat Intelligence
+- Cyber Threat Intelligence
 - Help Desk/Suporte Técnico
 
 ## Projetos
