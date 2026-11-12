@@ -9,7 +9,7 @@ Estudante atualmente focado em SOC e Blue Team.
 
 ## Projetos
 - Robux Scam Analysis (redirect + CPI) - [Ver em SOC](SOC/robux-scam-analysis) | [Ver em CTI](advisories/02-robux-scam-analysis)
-- [Roblox Phishing Login](https://github.com/jottadan/relatorios-de-seguranca) (phishing in-game)
+- Roblox Phishing Login (phishing in-game) - [Ver em SOC](SOC/robux-scam-analysis) | [Ver em CTI]() 
 
 ## Atualmente Estudando
 - Cisco Networking
